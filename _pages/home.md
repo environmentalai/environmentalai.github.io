@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Environmental AI - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Environmental AI."
 sitemap: false
 permalink: /
 ---
