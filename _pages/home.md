@@ -55,6 +55,4 @@ We are a diverse research group from Pakistan. We work at the intersection of en
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
- **We are  looking for passionate new PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new members to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
