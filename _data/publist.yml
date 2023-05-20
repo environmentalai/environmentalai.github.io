@@ -1,14 +1,6 @@
 - title: "Insights into adsorption capacity prediction on carbon-based materials using deep learning"
   image: imageaward_edited.png
-  description: This manuscript explains the novel findings in predicting the adsorption capacity of carbonbased materials (CBMs) towards the elimination of industrial organic dyes using artificial
-neural network (ANN) model. A large data set of 1514 data points was compiled consisting
-graphite-based materials (GB), activated carbon (AC) and biochar (BC) as adsorption materials
-towards the elimination of both anionic and cationic industrial dyes. The data set contains 12
-input features including adsorption time (min), type of adsorbent, calcination temperature (oC),
-calculation time (min), type of dye, initial dye concentration (mg/L), solution pH, adsorbent
-loading (g), volume (L), adsorption temperature (oC), particle size (nm), surface area (m2/g)
-and pore volume (cm3/g). The results of our model provide a high coefficient of determination
-(R2 = 0.99) and lower root mean square error (RMSE=46.95 mg/g) values for test data set.
+  description: This manuscript explains the novel findings in predicting the adsorption capacity of carbonbased materials (CBMs) towards the elimination of industrial organic dyes using artificial neural network (ANN) model. A large data set of 1514 data points was compiled consisting graphite-based materials (GB), activated carbon (AC) and biochar (BC) as adsorption materials towards the elimination of both anionic and cationic industrial dyes. The data set contains 12 input features including adsorption time (min), type of adsorbent, calcination temperature (oC), calculation time (min), type of dye, initial dye concentration (mg/L), solution pH, adsorbent loading (g), volume (L), adsorption temperature (oC), particle size (nm), surface area (m2/g) and pore volume (cm3/g). The results of our model provide a high coefficient of determination (R2 = 0.99) and lower root mean square error (RMSE=46.95 mg/g) values for test data set. 
   authors: Sara Iftikhar, Nalain Zahra, Fazila Rubab, Muhammed Burhan Khan and Zeeshan Haider Jaffari
   link:
     url: https://testing11.readthedocs.io/en/latest/
