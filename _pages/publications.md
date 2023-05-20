@@ -9,7 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
 
@@ -50,9 +49,6 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-## Patents
 
 
 ## Full List of publications
