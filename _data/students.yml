@@ -34,3 +34,10 @@
   info: MS
   number_educ: 0
   education1:
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://environmentalai.github.io/vacancies">openings</a> for more info
+  email: environmentalai.pak@gmail.com
+  number_educ: 0
+  education1:
