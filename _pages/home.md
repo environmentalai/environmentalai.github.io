@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group from Pakistan. We work at the intersection of environmental sciences and data-science. Our focus is on utilization of cutting edge machine learning methods for solving environmental problems. We espcially focus on water quality, water treatment, hydrological modeling. We build both process based and data-driven solutions for improvement in water quality focusing on E. coli, antibiotics, antibiotic resistance genes, pesticides, micropollutants, harmful algal blooms etc.
+We are a diverse research group from Pakistan. We work at the intersection of environmental sciences and artifitial intelligence. Our focus is on utilization of cutting edge machine learning methods for solving environmental problems. We espcially focus on water quality, water treatment, hydrological modeling. We build both process based and data-driven solutions for improvement in water quality focusing on E. coli, antibiotics, antibiotic resistance genes, pesticides, micropollutants, harmful algal blooms etc.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -15,6 +15,10 @@ We are a dynamic research group from Pakistan. We work at the intersection of en
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -24,6 +28,18 @@ We are a dynamic research group from Pakistan. We work at the intersection of en
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/seppur1.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
