@@ -11,27 +11,27 @@
 
 - name: Ali Jawad
   photo: bio-photo.jpg
-  info: MS
+  info: MS in Chemistry
   number_educ: 0
   education1:
 
 - name: Sara Iftikhar
   photo: rock.jpg
-  info: MS
+  info: MS in Electrical Engineering
   number_educ: 0
   education1:
 
 
 - name: Nalain Zahra
   photo: rock.jpg
-  info: MS
+  info: MS in Chemistry
   number_educ: 0
   education1:
   
   
 - name: Fazila Rubab
   photo: rock.jpg
-  info: MS
+  info: BS in Software Engineering
   number_educ: 0
   education1:
 
