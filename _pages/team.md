@@ -114,9 +114,24 @@ permalink: /team/
   </ul>
 </div>
 
-## Former Members
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+## Former members Scientists
 {% assign number_printed = 0 %}
-{% for member in site.data.alimni_members %}
+{% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -163,7 +178,6 @@ permalink: /team/
   </ul>
 </div>
 
-
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -176,5 +190,3 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
