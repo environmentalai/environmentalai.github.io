@@ -1,12 +1,11 @@
-- name: Ather Abbas
-  photo: ather.png
+- name: Sara Iftikhar
+  photo: rock.jpg
   info: Founder
   email: ather_abbas786@yahoo.com
-  number_educ: 4
-  education1: Postdoc UNIST, South Korea
-  education2: PhD in Environmental Engineering, Ulsan National Institute of Science and Technology, South Korea
-  education3: Master in Hydrogeology and Environmental Geoscience, Goettingen University, Germany
-  education4: <a href="https://atrcheema.github.io/">website,</a> <a href="https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=de">scholar,</a> <a href="https://github.com/AtrCheema">github</a>
+  number_educ: 2
+  education1: Master in Electrical Engineering, NUST, Pakistan
+  education2: <a href="https://sara-iftikhar.github.io/">website,</a> <a href="https://scholar.google.com/citations?user=lMI5QRwAAAAJ&hl=en">scholar,</a> <a href="https://github.com/Sara-Iftikhar">github</a>
+
 
 - name: Zeeshan Haider Jaffari
   photo: zeeshan.jpg
